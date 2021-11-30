@@ -5,7 +5,7 @@ forest segment
     var4 dw ?
 forest ENDS
 moor segment
-    assume DS:forest
+    assume CS:moor,DS:forest
 start:  mov AX,forest
     mov DS,AX 
     mov AX,0000H
