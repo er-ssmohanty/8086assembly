@@ -5,4 +5,3 @@ int 21H
 hlt
 message: db 0CH,0DH,"Hello World!$",24H
 ;hlt
-
