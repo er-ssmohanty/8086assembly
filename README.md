@@ -6,3 +6,5 @@ You are most welcome to test these programs on different emulators, training boa
 and add comments. 
 
 BIOS and DOS interrupt table and ASCII table have been added for reference.
+
+https://www.pcpolytechnic.com/it/ppt/8086_instruction_set.pdf
