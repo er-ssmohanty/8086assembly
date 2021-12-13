@@ -5,5 +5,7 @@ start:  mov ax,1234H
         div [bx]
         hlt
 
-dividend: dw 125H
-divisor:  db 12H
+dividend: dw 88H
+divisor:  db 12H   
+;all numbers are in hexadecimal form whether in this program or in
+;the simulator
